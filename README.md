@@ -1,3 +1,5 @@
+#EXERCISES AND APP DEMO FROM THE PLURALSIGHT COURSE 'ANGULAR, GETTING STARTED'
+
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
